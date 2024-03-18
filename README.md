@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oğuz Gökçen</h1>
-<p align="center">👋 Hello there! I'm a Junior Backend Developer at Mrusta.com.tr, where I focus on backend development and Android Kotlin. As an enthusiast for continuous learning, I believe it's an integral part of my journey, regardless of age or experience level.</p>
+<h1>Hi 👋, I'm Oğuz Gökçen</h1>
+<p align="center">Welcome to my GitHub page. I am passionate about Android development and backend development. I have made projects in both areas and enjoy collaborating and learning with teams. Additionally, I have experience in web development, git, and agile methods. </p>
 
 - 🌱 I’m currently learning **Android,Asp.Net**
 
