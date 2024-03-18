@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Oğuz Gökçen</h1>
-<p align="center">Welcome to my GitHub page. I am passionate about Android development and backend development. I have made projects in both areas and enjoy collaborating and learning with teams. Additionally, I have experience in web development, git, and agile methods. </p>
+<p>Welcome to my GitHub page. I am passionate about Android development and backend development. I have made projects in both areas and enjoy collaborating and learning with teams. Additionally, I have experience in web development, git, and agile methods. </p>
 
 - 🌱 I’m currently learning **Android,Asp.Net**
 
